@@ -1,6 +1,16 @@
 # InfoNotifier
 Web App for teams to add information and subscribe to notifications. 
 
+**Technologies Used**
+
+- ASP .NET Core 2.1
+- SQL Server
+- Azure Web Apps
+- Azure Functions
+- Visual Studio 2017 
+- C# and .NET Core
+
+
 # Notes
 
 **User**
