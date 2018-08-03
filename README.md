@@ -20,6 +20,10 @@ Web App for teams to add information and subscribe to notifications.
 - Add entries
 - Set notification settings
   - live, daily @ time, end of week @ time View team info 
+- Users can save a draft during the week
+  - Toggle draft to final when ready 
+  - This will trigger instant notification 
+  - Daily/Weekly digest will pick up finals only 
 
 **Manager**
 - Add/edit/disable/delete team
