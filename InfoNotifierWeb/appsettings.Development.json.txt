@@ -1,0 +1,13 @@
+{
+  "Authentication":{
+    "Authentication:Microsoft:ApplicationId": "REPLACE_APP_ID",
+    "Authentication:Microsoft:Password": "REPLACE_APP_PWD"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "System": "Information",
+      "Microsoft": "Information"
+    }
+  }
+}
