@@ -1,7 +1,7 @@
 {
   "Authentication":{
-    "Authentication:Microsoft:ApplicationId": "REPLACE_APP_ID",
-    "Authentication:Microsoft:Password": "REPLACE_APP_PWD"
+    "Microsoft:ApplicationId": "REPLACE_APP_ID",
+    "Microsoft:Password": "REPLACE_APP_PWD"
   },
   "Logging": {
     "LogLevel": {
