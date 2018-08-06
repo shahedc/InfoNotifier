@@ -17,7 +17,7 @@ namespace InfoNotifierWeb.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "InfoNotifier Web App.";
+            ViewData["Message"] = "InfoNotifier Web App!";
 
             return View();
         }
