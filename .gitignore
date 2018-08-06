@@ -333,3 +333,4 @@ ASALocalRun/
 InfoNotifierWeb/app.db
 InfoNotifierWeb/appsettings.Development.json
 InfoNotifierWeb/appsettings.Development.json.backup.txt
+/.vscode
