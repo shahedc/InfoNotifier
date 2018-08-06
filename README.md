@@ -24,6 +24,7 @@ Web App for teams to add information and subscribe to notifications.
   - Toggle draft to final when ready 
   - This will trigger instant notification 
   - Daily/Weekly digest will pick up finals only 
+ - Live chat window with other users (via SignalR)
 
 **Manager**
 - Add/edit/disable/delete team
