@@ -12,6 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using InfoNotifierWeb.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using InfoNotifierWeb.Services;
 
 namespace InfoNotifierWeb
 {
@@ -48,6 +49,9 @@ namespace InfoNotifierWeb
             });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddSingleton<IInfoItemService, FakeTodoItemService>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
